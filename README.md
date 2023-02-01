@@ -25,7 +25,6 @@ I have a dynamic, perseverant and optimistic character, which always keeps me wo
 <img width="5%" src="./img/icons/mongodb.png">
 <img width="5%" src="./img/icons/sequelize.png">
 <img width="5%" src="./img/icons/postgreSQL.png">
-<img width="5%" src="./img/icons/heroku.png">
 <img width="5%" src="./img/icons/vercel.png">
 <img width="5%" src="./img/icons/postman.png">
 <img width="5%" src="./img/icons/webpack.png">
